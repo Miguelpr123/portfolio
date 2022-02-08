@@ -1,0 +1,102 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//DESARROLLO ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+editar los links de redes
+
+- optimizar el codigo con los styles 
+
+el btn de down hacer las clases en mi css
+
+se puede crear un modal de registro
+
+Hacer el lightbox 
+
+los links de las redes sociales , configurar los botones y loes enlaces ... con figurar el enlace del footer
+
+las estrellas
+
+//CODIGOS ------------------------------------------------------------------------------------------------------------------------------
+
+<!-- <div class="col-2 d-flex flex-column justify-content-between">
+									<span class="display-3" >02</span>
+									<div class="ml-2" >
+										<p class="text-white" >
+											Monstera
+											<br>
+											<hr class="bg-white" style="width: 20px; height: 0.5px;" >
+										</p>
+										<ul class="ml-4" >
+											<li class="text-white" >eeege</li>
+											<li class="text-white" >asdsdsd</li>
+										</ul>
+									</div>
+								</div> -->
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//DESCARGAS ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+//ICONOS ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+iconitos:   (fullstack)
+    html,css,js,    mysql,bootstrap,laravel,vue
+
+iconitos mas grandes: (Que hago)
+    website (app completa) , responsive , base de datos , panel de administracion , users
+
+otros iconitos: (como trabajo)
+    requisitos del cliente , modelo base de datos, muestra del modelo de la db , 
+    desarrollo del website , informes cada 48 horas , acordar Presupuesto y pago
+
+iconitos habilidades:
+    html,css,js,bootstrap,vueJs,php,laravel,mysql,jekyll,canvas api
+
+iconitos redes sociales:
+    facebook (fa-facebook) , linkedin (fa-linkedin) , github (fa-github) , whatsapp (fa-whatsapp)
+
+iconito menu:
+    blanco (fa-bars)
+
+//IMAGENES ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+imagenes de figuritas:
+    circulo para detras de los titulos (o un div circular con gradientes(los gradientes con el color primario) ) , conjunto de figuritas para una seccion especifica(alguna con el color primario)
+
+imagenes de fondo:
+    imagen del home(oscurita u oscurecerla y con alguna figura hecha con rayitas , como la nube o algo asi),
+    imagen de fondo para el (como trabajo) (oscurita u oscurecerla)
+
+imagenes trabajos realizados:
+    tirarle una foto a los proyectos realizados
+
+
+
+//COLORES ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Color primario:
+    rojizo o naranja fuerte, o el danger de bootstrap 
+
+color secundario:
+    dark de bootstrap
+
+//FUENTES ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+fuente de los titulos:
+    a_black_lives o nomark
+
+fuente del body:
+    google fonts...
+
+
+
+
+
+
+
+
